@@ -11,6 +11,7 @@ version: "1.0.0"
 date-released: "2026-11-22"
 license: MIT
 repository-code: "https://github.com/pcw8531/exploration-imitation-coordinative-structures"
+url: "https://doi.org/10.5281/zenodo.24436702"
 keywords:
   - coordinative structure
   - motor learning

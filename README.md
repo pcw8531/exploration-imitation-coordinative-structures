@@ -1,5 +1,6 @@
 # Element-level exploration and imitation in a network-agent model: code and data
 
+[![DOI](https://zenodo.org/badge/1467347112.svg)](https://doi.org/10.5281/zenodo.24436702)
 [![Code license: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data license: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](requirements.txt)
@@ -76,8 +77,11 @@ their sources, which `DATA_SOURCES.md` lists.
 Please cite the manuscript and this repository. `CITATION.cff` gives the reference of the repository.
 
 Park, C. (2026). What makes motor coordinative structures change? Element-level exploration and imitation in
-a network-agent model. Code and data (version 1.0.0).
-https://github.com/pcw8531/exploration-imitation-coordinative-structures
+a network-agent model. Code and data. Zenodo. https://doi.org/10.5281/zenodo.24436702
+
+This DOI stands for all versions and leads to the newest one. Version 1.0.0 has the DOI
+https://doi.org/10.5281/zenodo.24436703. The repository is kept at
+https://github.com/pcw8531/exploration-imitation-coordinative-structures.
 
 The two earlier studies this work builds on:
 
