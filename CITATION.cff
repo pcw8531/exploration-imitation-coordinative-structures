@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "What makes motor coordinative structures change? Element-level exploration and imitation in a network-agent model. Code and data."
+authors:
+  - family-names: Park
+    given-names: Chulwook
+    orcid: "https://orcid.org/0000-0001-8714-5760"
+    affiliation: "Department of Physical Education, Seoul National University"
+version: "1.0.0"
+date-released: "2026-11-22"
+license: MIT
+repository-code: "https://github.com/pcw8531/exploration-imitation-coordinative-structures"
+keywords:
+  - coordinative structure
+  - motor learning
+  - search strategy
+  - evolutionary game theory
+  - control entropy
